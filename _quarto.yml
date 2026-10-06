@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: "385website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Homepage
+      - about.qmd
+      
+  sidebar:
+    style: "docked"
+    contents:
+      - index.qmd
+      - about.qmd
+      - section: "Assignments"
+        contents:
+          href: ae01_unvotes_.pdf
+          text: "ae01"
+
+format:
+  html:
+    theme:
+      - flatley
+      - brand
+    css: styles.css
+    toc: true
+
+
+

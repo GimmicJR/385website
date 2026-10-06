@@ -1,0 +1,24 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "385website",
+    "section": "",
+    "text": "The website example I liked was the Professional Page\nhttps://hamel.dev/\nProfessional Page\nThis could help with job recruitment.",
+    "crumbs": [
+      "Homepage",
+      "385website"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Jack Roue is a CINS major at Chico State",
+    "crumbs": [
+      "Homepage",
+      "About"
+    ]
+  }
+]
